@@ -229,6 +229,20 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 
+.icon-container {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  height: 112px;
+  background-color: #f4f4fd;
+  margin-bottom: 8px;
+}
+
+.features-icon {
+  margin: 24px 100px;
+  /* display: block;
+  margin: 0 auto; */
+}
+
 .features-title {
   font-weight: 500;
   font-size: 20px;
