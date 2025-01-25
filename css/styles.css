@@ -235,12 +235,12 @@ img {
   height: 112px;
   background-color: #f4f4fd;
   margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .features-icon {
-  margin: 24px 100px;
-  /* display: block;
-  margin: 0 auto; */
 }
 
 .features-title {
